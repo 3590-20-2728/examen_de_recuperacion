@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Examen de reccuperacion", "Examen de reccuperacion.vcxproj", "{44935392-1AD7-4364-B80B-E8B54EB6D560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44935392-1AD7-4364-B80B-E8B54EB6D560}.Debug|x64.ActiveCfg = Debug|x64
+		{44935392-1AD7-4364-B80B-E8B54EB6D560}.Debug|x64.Build.0 = Debug|x64
+		{44935392-1AD7-4364-B80B-E8B54EB6D560}.Debug|x86.ActiveCfg = Debug|Win32
+		{44935392-1AD7-4364-B80B-E8B54EB6D560}.Debug|x86.Build.0 = Debug|Win32
+		{44935392-1AD7-4364-B80B-E8B54EB6D560}.Release|x64.ActiveCfg = Release|x64
+		{44935392-1AD7-4364-B80B-E8B54EB6D560}.Release|x64.Build.0 = Release|x64
+		{44935392-1AD7-4364-B80B-E8B54EB6D560}.Release|x86.ActiveCfg = Release|Win32
+		{44935392-1AD7-4364-B80B-E8B54EB6D560}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81376D65-671F-4E2D-B968-9BD0825AD92E}
+	EndGlobalSection
+EndGlobal
